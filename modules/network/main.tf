@@ -1,4 +1,4 @@
-//Onde vamos declarar toda a nossa rede
+// Onde vamos declarar toda a nossa rede
 
 resource "google_compute_network" "this" {
   name                    = "custom-vpc"
